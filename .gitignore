@@ -1,0 +1,7 @@
+__pycache__/
+build/
+dist/
+fias.PRM
+fias.SPEC
+ZCOPY.BAT
+zmakeexe.BAT
